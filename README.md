@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 
 
 ## Preview this App
-You can preview this app on on your phone from this page on [expo.io/datocms-reactnative](https://expo.io/@zzlorezz/datocms-reactnative)
+You can preview this app on on your phone from this page on [expo.io/datocms-reactnative](https://expo.io/@mat_jack1/datocms-reactnative)
 
 ## Setup the Project
 
